@@ -4,7 +4,91 @@
     <option name="deselectedBCs" value="NewPuzzle&#9;NewPuzzle&#10;NewPuzzle&#9;IOS_DEV" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3033b400-243a-47a2-8424-71fb80bc17b2" name="Default Changelist" comment="" />
+    <list default="true" id="3033b400-243a-47a2-8424-71fb80bc17b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Android_dev.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Android_dev.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/IOS_DEV.ipa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/IOS_DEV.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Main-android-descriptor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Main-ios-descriptor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Main.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/apk5956749280338040582.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/cer/Certificates_dev.p12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/cer/dev_profile.mobileprovision" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/chanpro-android-app.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/1024px-Speaker_Icon.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/1024px-Speaker_Icon2.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/3x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/4x4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/5x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/Nuvola_arrow_left_pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/level/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/level/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/level/lv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/level/lv_lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/level/lvdemo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/level/volume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/level/volume2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default-568h@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default-812h@3x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default-Landscape-812h@3x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default-Landscape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default-LandscapeLeft@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default-Portrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default-Portrait@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/longline/3x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/longline/4x4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/longline/5x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/menu/Play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/menu/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/buoc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/control.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/do.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/khungnho.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/khungto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/xanh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/3x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/4x4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/5x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/New folder/3x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/New folder/4x4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/New folder/5x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/Nuvola_arrow_left_pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/volum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/volum2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2208/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2208/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2208/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2688/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2688/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2688/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2732/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2732/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2732/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/winlose/demolose.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/winlose/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/winlose/lose.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/winlose/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/winlose/replay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/winlose/win.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/img/ButtonClick.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/img/PickCell.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/img/Purple-Planet.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/img/Ta Da-SoundBible.com-1884170640.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/img/Win.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/font/AcademicM54-po1Z.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/font/Franklin M54.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/ios_development.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/ios_release.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +104,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Zy4NEs85hC9ij2OPZ7RkVAgS3c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,6 +119,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz" />
@@ -54,7 +143,7 @@
       <recent name="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix" />
     </key>
   </component>
-  <component name="RunManager" selected="Flash App.Android_dev (NewPuzzle)">
+  <component name="RunManager" selected="Flash App.NewPuzzle">
     <configuration name="Android_dev (NewPuzzle)" type="FlashRunConfigurationType" nameIsGenerated="true">
       <option name="BCName" value="Android_dev" />
       <option name="IOSSimulatorDevice" value="" />
@@ -212,7 +301,7 @@
       <workItem from="1585878299426" duration="17580000" />
       <workItem from="1585928069141" duration="5333000" />
       <workItem from="1586082173768" duration="7869000" />
-      <workItem from="1586226937317" duration="30254000" />
+      <workItem from="1586226937317" duration="31245000" />
     </task>
     <servers />
   </component>
@@ -220,10 +309,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586398548358">
+    <state x="304" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586493919166">
       <screen x="0" y="23" width="1680" height="986" />
     </state>
-    <state x="304" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.986@0.23.1680.986" timestamp="1586398548358" />
+    <state x="304" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.986@0.23.1680.986" timestamp="1586493919166" />
     <state x="534" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586342274977">
       <screen x="0" y="23" width="1680" height="986" />
     </state>
@@ -244,26 +333,26 @@
       <screen x="0" y="23" width="1680" height="986" />
     </state>
     <state width="552" height="466" key="DebuggerActiveHint/0.23.1680.986@0.23.1680.986" timestamp="1585907911992" />
-    <state width="1638" height="176" key="GridCell.Tab.0.bottom" timestamp="1586401900654">
+    <state width="1638" height="176" key="GridCell.Tab.0.bottom" timestamp="1586491490014">
       <screen x="0" y="23" width="1680" height="986" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.bottom/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1585891316430" />
-    <state width="1638" height="176" key="GridCell.Tab.0.bottom/0.23.1680.986@0.23.1680.986" timestamp="1586401900654" />
-    <state width="1638" height="176" key="GridCell.Tab.0.center" timestamp="1586401900653">
+    <state width="1638" height="176" key="GridCell.Tab.0.bottom/0.23.1680.986@0.23.1680.986" timestamp="1586491490014" />
+    <state width="1638" height="176" key="GridCell.Tab.0.center" timestamp="1586491490013">
       <screen x="0" y="23" width="1680" height="986" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.center/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1585891316428" />
-    <state width="1638" height="176" key="GridCell.Tab.0.center/0.23.1680.986@0.23.1680.986" timestamp="1586401900653" />
-    <state width="1638" height="176" key="GridCell.Tab.0.left" timestamp="1586401900652">
+    <state width="1638" height="176" key="GridCell.Tab.0.center/0.23.1680.986@0.23.1680.986" timestamp="1586491490013" />
+    <state width="1638" height="176" key="GridCell.Tab.0.left" timestamp="1586491490012">
       <screen x="0" y="23" width="1680" height="986" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.left/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1585891316427" />
-    <state width="1638" height="176" key="GridCell.Tab.0.left/0.23.1680.986@0.23.1680.986" timestamp="1586401900652" />
-    <state width="1638" height="176" key="GridCell.Tab.0.right" timestamp="1586401900654">
+    <state width="1638" height="176" key="GridCell.Tab.0.left/0.23.1680.986@0.23.1680.986" timestamp="1586491490012" />
+    <state width="1638" height="176" key="GridCell.Tab.0.right" timestamp="1586491490013">
       <screen x="0" y="23" width="1680" height="986" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.right/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1585891316429" />
-    <state width="1638" height="176" key="GridCell.Tab.0.right/0.23.1680.986@0.23.1680.986" timestamp="1586401900654" />
+    <state width="1638" height="176" key="GridCell.Tab.0.right/0.23.1680.986@0.23.1680.986" timestamp="1586491490013" />
     <state width="1638" height="206" key="GridCell.Tab.1.bottom" timestamp="1585912082524">
       <screen x="0" y="23" width="1680" height="986" />
     </state>
