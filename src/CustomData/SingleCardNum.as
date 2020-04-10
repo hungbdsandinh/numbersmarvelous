@@ -19,7 +19,7 @@ public class SingleCardNum extends Sprite{
     public var canMoveRight:Boolean = false;
     public var canMoveUp:Boolean = false;
     public var canMoveDown:Boolean = false;
-    [Embed(source='../com/example/HexagonNumberMatrix/art_newpuz/play/xanh.png')]
+    [Embed(source='../com/nsm/numbersm/art_newpuz/play/xanh.png')]
     public const cardNum:Class;
 
     public var imgCardNum: Bitmap = new Bitmap();

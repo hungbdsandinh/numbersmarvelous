@@ -12,13 +12,13 @@
 
     <!-- A universally unique application identifier. Must be unique across all AIR applications.
          Using a reverse DNS-style name as the id is recommended. (Eg. com.example.ExampleApplication.) Required. -->
-    <id>com.chansd.tunght</id>
+    <id>com.nb.numbersmarvelous</id>
 
     <!-- Used as the filename for the application. Required. -->
-    <filename>ChanSanDinh</filename>
+    <filename>NumbersMarvelous</filename>
 
     <!-- The name that is displayed in the AIR application installer. May have multiple values for each language. See samples or xsd schema file. Optional. -->
-    <name>Numbers Mavelous</name>
+    <name>Numbers Marvelous</name>
 
     <!-- A string value of the format <0-999>.<0-999>.<0-999> that represents application version which can be used to check for application upgrade.
          Values can also be 1-part or 2-part. It is not necessary to have a 3-part value.
@@ -191,13 +191,13 @@
 
 			<key>keychain-access-groups</key>
 			<array>
-		        <string>6Q2762K876.*</string>
+		        <string>Q9VNYYLGZX.*</string>
 			</array>
 
 			<key>application-identifier</key>
-			<string>6Q2762K876.com.chansd.tunght</string>
+			<string>Q9VNYYLGZX.com.nb.numbersmarvelous</string>
 			<key>com.apple.developer.team-identifier</key>
-			<string>6Q2762K876</string>
+			<string>Q9VNYYLGZX</string>
             <key>com.apple.developer.associated-domains</key>
                     <array>
                         <string>applinks:eewq2.app.goo.gl</string>

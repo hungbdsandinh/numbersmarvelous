@@ -12,18 +12,18 @@
 
     <!-- A universally unique application identifier. Must be unique across all AIR applications.
          Using a reverse DNS-style name as the id is recommended. (Eg. com.example.ExampleApplication.) Required. -->
-    <id>com.sd.digitx</id>
+    <id>com.nsm.numbersm</id>
 
     <!-- Used as the filename for the application. Required. -->
-    <filename>digitx</filename>
+    <filename>NumbersMarvelous</filename>
 
     <!-- The name that is displayed in the AIR application installer. May have multiple values for each language. See samples or xsd schema file. Optional. -->
-    <name>Chan San Dinh</name>
+    <name>Numbers Marvelous</name>
 
     <!-- A string value of the format <0-999>.<0-999>.<0-999> that represents application version which can be used to check for application upgrade.
          Values can also be 1-part or 2-part. It is not necessary to have a 3-part value.
          An updated version of application must have a versionNumber value higher than the previous version. Required for namespace >= 2.5. -->
-    <versionNumber>2.12.6</versionNumber>
+    <versionNumber>1.0.0</versionNumber>
 
     <!-- A string value (such as "v1", "2.5", or "Alpha 1") that represents the version of the application, as it should be shown to users. Optional. -->
     <!--<versionLabel></versionLabel>-->
@@ -126,10 +126,10 @@
 
     <!-- The icon the system uses for the application. For at least one resolution, specify the path to a PNG file included in the AIR package. Optional. -->
     <icon>
-        <image29x29>icon/Icon-29.png</image29x29>
-        <image36x36>icon/Icon-36.png</image36x36>
+        <!--        <image29x29>icon/Icon-29.png</image29x29>-->
+        <!--        <image36x36>icon/Icon-36.png</image36x36>-->
         <image40x40>icon/Icon-Small-40.png</image40x40>
-        <image48x48>icon/Icon-48.png</image48x48>
+        <!--        <image48x48>icon/Icon-48.png</image48x48>-->
         <image50x50>icon/Icon-50.png</image50x50>
         <image57x57>icon/Icon-57.png</image57x57>
         <image58x58>icon/Icon-Small@2x.png</image58x58>
@@ -137,12 +137,12 @@
         <image76x76>icon/Icon-76.png</image76x76>
         <image80x80>icon/Icon-Small-80.png</image80x80>
         <image87x87>icon/Icon-Small@3x.png</image87x87>
-        <image96x96>icon/Icon-96.png</image96x96>
+        <!--        <image96x96>icon/Icon-96.png</image96x96>-->
         <image120x120>icon/Icon-120.png</image120x120>
         <image144x144>icon/Icon-144.png</image144x144>
         <image152x152>icon/Icon-152.png</image152x152>
         <image167x167>icon/Icon-167.png</image167x167>
-        <image512x512>icon/Icon-512.png</image512x512>
+        <!--        <image512x512>icon/Icon-512.png</image512x512>-->
         <image1024x1024>icon/Icon-1024.png</image1024x1024>
     </icon>
 
@@ -195,13 +195,13 @@
 
 			<key>keychain-access-groups</key>
 			<array>
-		        <string>BHGNNYX4U9.*</string>
+		        <string>Q9VNYYLGZX.*</string>
 			</array>
 
 			<key>application-identifier</key>
-			<string>BHGNNYX4U9.com.sd.digitx</string>
+			<string>Q9VNYYLGZX.com.nsm.numbersm</string>
 			<key>com.apple.developer.team-identifier</key>
-			<string>BHGNNYX4U9</string>
+			<string>Q9VNYYLGZX</string>
             <key>com.apple.developer.associated-domains</key>
                     <array>
                         <string>applinks:eewq2.app.goo.gl</string>
@@ -220,83 +220,15 @@
                 <!-- iPad devices -->
                 <string>2</string>
             </array>
-            <key>NSCameraUsageDescription</key>
-		    <string>Để thực hiện chụp ảnh, ứng dụng cần truy cập vào máy ảnh của bạn</string>
-            <key>NSPhotoLibraryUsageDescription</key>
-            <string>Để lưu ảnh chụp màn hình, chúng tôi cần truy cập vào thư viện ảnh của bạn</string>
-            <key>NSBluetoothPeripheralUsageDescription</key>
-            <string>Advertisement would like to use bluetooth.</string>
-            <key>ITSAppUsesNonExemptEncryption</key><false/>
-            <key>UIStatusBarStyle</key>
-            <string>UIStatusBarStyleBlackOpaque</string>
-            <key>UIRequiresPersistentWiFi</key>
-            <string>YES</string>
-            <key>UIPrerenderedIcon</key>
-            <true/>
-            <key>FacebookUrlSchemeSuffix</key>
-            <string>chanenterprise</string>
-            <key>CFBundleURLTypes</key>
-            <array>
-                <dict>
-                    <key>CFBundleURLSchemes</key>
-                        <array>
-                            <string>fb252714068096529chanenterprise</string>
-                            <string>air.com.doitflash.exfacebook2</string>
-                        </array>
-                </dict>
-            </array>
-            <key>FacebookAppID</key>
-            <string>252714068096529</string>
-            <key>NSAppTransportSecurity</key>
-            <dict>
-                <key>NSAllowsArbitraryLoads</key>
-                <true/>
-                <key>NSExceptionDomains</key>
-                <dict>
-                    <key>facebook.com</key>
-                    <dict>
-                        <key>NSIncludesSubdomains</key>
-                        <true/>
-                        <key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
-                        <false/>
-                    </dict>
-                    <key>fbcdn.net</key>
-                    <dict>
-                        <key>NSIncludesSubdomains</key>
-                        <true/>
-                        <key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
-                        <false/>
-                    </dict>
-                    <key>akamaihd.net</key>
-                    <dict>
-                        <key>NSIncludesSubdomains</key>
-                        <true/>
-                        <key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
-                        <false/>
-                    </dict>
-                </dict>
-            </dict>
-            <key>LSApplicationQueriesSchemes</key>
-            <array>
-                    <string>fbapi</string>
-                    <string>fb-messenger-api</string>
-                    <string>fb-messenger-share-api</string>
-                    <string>fb-messenger</string>
-                    <string>fbauth2</string>
-                    <string>fbshareextension</string>
-            </array>
-            <key>MinimumOSVersion</key>
-            <string>10.0</string>
-            <key>UIViewControllerBasedStatusBarAppearance</key>
-            <false/>
 
-            <!-- Required by firebase_messaging.ane -->
-            <key>UIBackgroundModes</key>
+            <key>MinimumOSVersion</key>
+            <string>8.0</string>
+            <key>UIRequiredDeviceCapabilities</key>
             <array>
-                <string>remote-notification</string>
+                <string>arm64</string>
             </array>
-            <key>com.myflashlabs.firebase.deepLinkURLScheme</key>
-                <string>dlscheme</string>
+
+
             ]]>
         </InfoAdditions>
         <requestedDisplayResolution>high</requestedDisplayResolution>
@@ -308,33 +240,33 @@
     </iPhone>
 
     <extensions>
-        <extensionID>com.myflashlab.air.extensions.firebase.auth</extensionID>
-        <extensionID>com.myflashlab.air.extensions.dependency.firebase.auth</extensionID>
-        <extensionID>com.myflashlab.air.extensions.facebook</extensionID>
-        <!--<extensionID>com.freshplanet.AirFacebook</extensionID>-->
-        <extensionID>com.mesmotronic.ane.fullscreen</extensionID>
-        <extensionID>sd.natives.ios.NativeExtension</extensionID>
-<!--        <extensionID>com.ssd.ane.androidextensions</extensionID>-->
-        <extensionID>com.freshplanet.ane.AirInAppPurchase</extensionID>
-        <extensionID>com.myflashlab.air.extensions.udid</extensionID>
-        <!--ADD FireBase core -->
-        <extensionID>com.myflashlab.air.extensions.dependency.firebase.common</extensionID>
-        <extensionID>com.myflashlab.air.extensions.dependency.firebase.iid</extensionID>
-<!--        <extensionID>com.myflashlab.air.extensions.dependency.googlePlayServices.appinvite</extensionID>-->
-<!--        <extensionID>com.myflashlab.air.extensions.dependency.googlePlayServices.base</extensionID>-->
-<!--        <extensionID>com.myflashlab.air.extensions.dependency.googlePlayServices.basement</extensionID>-->
-<!--        <extensionID>com.myflashlab.air.extensions.dependency.googlePlayServices.tasks</extensionID>-->
-        <extensionID>com.myflashlab.air.extensions.dependency.overrideAir</extensionID>
-<!--        <extensionID>com.myflashlab.air.extensions.dependency.androidSupport</extensionID>-->
+<!--        <extensionID>com.myflashlab.air.extensions.firebase.auth</extensionID>-->
+<!--        <extensionID>com.myflashlab.air.extensions.dependency.firebase.auth</extensionID>-->
+<!--        <extensionID>com.myflashlab.air.extensions.facebook</extensionID>-->
+<!--        &lt;!&ndash;<extensionID>com.freshplanet.AirFacebook</extensionID>&ndash;&gt;-->
+<!--        <extensionID>com.mesmotronic.ane.fullscreen</extensionID>-->
+<!--        <extensionID>sd.natives.ios.NativeExtension</extensionID>-->
+<!--&lt;!&ndash;        <extensionID>com.ssd.ane.androidextensions</extensionID>&ndash;&gt;-->
+<!--        <extensionID>com.freshplanet.ane.AirInAppPurchase</extensionID>-->
+<!--        <extensionID>com.myflashlab.air.extensions.udid</extensionID>-->
+<!--        &lt;!&ndash;ADD FireBase core &ndash;&gt;-->
+<!--        <extensionID>com.myflashlab.air.extensions.dependency.firebase.common</extensionID>-->
+<!--        <extensionID>com.myflashlab.air.extensions.dependency.firebase.iid</extensionID>-->
+<!--&lt;!&ndash;        <extensionID>com.myflashlab.air.extensions.dependency.googlePlayServices.appinvite</extensionID>&ndash;&gt;-->
+<!--&lt;!&ndash;        <extensionID>com.myflashlab.air.extensions.dependency.googlePlayServices.base</extensionID>&ndash;&gt;-->
+<!--&lt;!&ndash;        <extensionID>com.myflashlab.air.extensions.dependency.googlePlayServices.basement</extensionID>&ndash;&gt;-->
+<!--&lt;!&ndash;        <extensionID>com.myflashlab.air.extensions.dependency.googlePlayServices.tasks</extensionID>&ndash;&gt;-->
+<!--        <extensionID>com.myflashlab.air.extensions.dependency.overrideAir</extensionID>-->
+<!--&lt;!&ndash;        <extensionID>com.myflashlab.air.extensions.dependency.androidSupport</extensionID>&ndash;&gt;-->
 
-        <extensionID>com.myflashlab.air.extensions.firebase.core</extensionID>
+<!--        <extensionID>com.myflashlab.air.extensions.firebase.core</extensionID>-->
 
-        <!-- To support Firebase FCM -->
-        <extensionID>com.myflashlab.air.extensions.firebase.fcm</extensionID>
-        <extensionID>com.myflashlab.air.extensions.dependency.firebase.messaging</extensionID>
+<!--        &lt;!&ndash; To support Firebase FCM &ndash;&gt;-->
+<!--        <extensionID>com.myflashlab.air.extensions.firebase.fcm</extensionID>-->
+<!--        <extensionID>com.myflashlab.air.extensions.dependency.firebase.messaging</extensionID>-->
 
-        <extensionID>com.myflashlab.air.extensions.firebase.dynamicLinks</extensionID>
-        <extensionID>com.myflashlab.air.extensions.dependency.firebase.dynamicLinks</extensionID>
+<!--        <extensionID>com.myflashlab.air.extensions.firebase.dynamicLinks</extensionID>-->
+<!--        <extensionID>com.myflashlab.air.extensions.dependency.firebase.dynamicLinks</extensionID>-->
     </extensions>
 
 </application>
