@@ -1,340 +1,76 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
-<!-- Adobe AIR Application Descriptor File Template.
-     Specifies parameters for identifying, installing, and launching AIR applications.
-
-     xmlns - The Adobe AIR namespace: http://ns.adobe.com/air/application/4.0.
-     The last segment of the namespace specifies the version of the AIR runtime required for this application to run.
-
-     minimumPatchLevel - The minimum patch level of the AIR runtime required to run the application. Optional. -->
-
 <application xmlns="http://ns.adobe.com/air/application/32.0">
-
-    <!-- A universally unique application identifier. Must be unique across all AIR applications.
-         Using a reverse DNS-style name as the id is recommended. (Eg. com.example.ExampleApplication.) Required. -->
-    <id>com.sd.digitx</id>
-
-    <!-- Used as the filename for the application. Required. -->
-    <filename>digitx</filename>
-
-    <!-- The name that is displayed in the AIR application installer. May have multiple values for each language. See samples or xsd schema file. Optional. -->
-    <name>Chan San Dinh</name>
-
-    <!-- A string value of the format <0-999>.<0-999>.<0-999> that represents application version which can be used to check for application upgrade.
-         Values can also be 1-part or 2-part. It is not necessary to have a 3-part value.
-         An updated version of application must have a versionNumber value higher than the previous version. Required for namespace >= 2.5. -->
-    <versionNumber>2.12.6</versionNumber>
-
-    <!-- A string value (such as "v1", "2.5", or "Alpha 1") that represents the version of the application, as it should be shown to users. Optional. -->
-    <!--<versionLabel></versionLabel>-->
-
-    <!-- An application version designator (such as "v1", "2.5", or "Alpha 1"). Required for namespace < 2.5. -->
-    <!--<version>0.0.1</version>-->
-
-    <!-- Description, displayed in the AIR application installer. May have multiple values for each language. See samples or xsd schema file. Optional. -->
-    <!--<description></description>-->
-
-    <!-- Copyright information. Optional -->
-    <!--<copyright></copyright>-->
-
-    <!-- Publisher ID. Used if you're updating an application created prior to 1.5.3 -->
-    <!--<publisherID></publisherID>-->
-
-    <!-- Identifies the ActionScript extensions used by an application. -->
-    <!--<extensions>
-        <extensionID></extensionID>
-    </extensions>-->
-
-    <!-- Settings for the application's initial window. Required. -->
-    <initialWindow>
-        <!-- The main SWF or HTML file of the application. Required. -->
-        <content>SWF file name is set automatically at compile time</content>
-
-        <!-- The title of the main window. Optional. -->
-        <!--<title></title>-->
-
-        <!-- The type of system chrome to use (either "standard" or "none"). Optional. Default standard. -->
-        <!--<systemChrome></systemChrome>-->
-
-        <!-- Whether the window is transparent. Only applicable when systemChrome is none. Optional. Default false. -->
-        <!--<transparent></transparent>-->
-
-        <!-- Whether the window is initially visible. Optional. Default false. -->
-        <visible>true</visible>
-
-        <!-- Whether the user can minimize the window. Optional. Default true. -->
-        <!--<minimizable></minimizable>-->
-
-        <!-- Whether the user can maximize the window. Optional. Default true. -->
-        <!--<maximizable></maximizable>-->
-
-        <!-- Whether the user can resize the window. Optional. Default true. -->
-        <!--<resizable></resizable>-->
-
-        <!-- The window's initial width in pixels. Optional. -->
-        <!--<width></width>-->
-
-        <!-- The window's initial height in pixels. Optional. -->
-        <!--<height></height>-->
-
-        <!-- The window's initial x position. Optional. -->
-        <!--<x></x>-->
-
-        <!-- The window's initial y position. Optional. -->
-        <!--<y></y>-->
-
-        <!-- The window's minimum size, specified as a width/height pair in pixels, such as "400 200". Optional. -->
-        <!--<minSize></minSize>-->
-
-        <!-- The window's initial maximum size, specified as a width/height pair in pixels, such as "1600 1200". Optional. -->
-        <!--<maxSize></maxSize>-->
-
-        <!-- The aspect ratio of the app ("portrait" or "landscape" or "any"). Optional. Mobile only. Default is the natural orientation of the device -->
-        <aspectRatio>landscape</aspectRatio>
-
-        <!-- Whether the app will begin auto-orienting on launch. Optional. Mobile only. Default false -->
-        <autoOrients>true</autoOrients>
-
-        <!-- Whether the app launches in full screen. Optional. Mobile only. Default false -->
-        <fullScreen>true</fullScreen>
-
-        <!-- The render mode for the app (either auto, cpu, gpu, or direct). Optional. Default auto -->
-        <renderMode>auto</renderMode>
-
-        <!-- Whether the default direct mode rendering context allocates storage for depth and stencil buffers.  Optional.  Default false. -->
-        <!--<depthAndStencil></depthAndStencil>-->
-
-        <!-- Whether or not to pan when a soft keyboard is raised or lowered (either "pan" or "none").  Optional.  Defaults "pan." -->
-        <softKeyboardBehavior>pan</softKeyboardBehavior>
-
-        <!-- Display Resolution for the app (either "standard" or "high"). Optional, OSX-only. Default "standard" -->
-        <!-- <requestedDisplayResolution></requestedDisplayResolution> -->
-    </initialWindow>
-
-    <!-- We recommend omitting the supportedProfiles element, which in turn permits your application to be deployed to all devices supported by AIR.
-         If you wish to restrict deployment (i.e., to only mobile devices) then add this element and list only the profiles which your application does support. -->
-    <!--<supportedProfiles>desktop extendedDesktop mobileDevice extendedMobileDevice</supportedProfiles>-->
-
-    <!-- Languages supported by application. Only these languages can be specified -->
-    <!--<supportedLanguages>en de cs es fr it ja ko nl pl pt ru sv tr zh</supportedLanguages>-->
-
-    <!-- The subpath of the standard default installation location to use. Optional. -->
-    <!--<installFolder></installFolder>-->
-
-    <!-- The subpath of the Programs menu to use. (Ignored on operating systems without a Programs menu.) Optional. -->
-    <!--<programMenuFolder></programMenuFolder>-->
-
-    <!-- The icon the system uses for the application. For at least one resolution, specify the path to a PNG file included in the AIR package. Optional. -->
-    <icon>
-        <image29x29>icon/Icon-29.png</image29x29>
-        <image36x36>icon/Icon-36.png</image36x36>
-        <image40x40>icon/Icon-Small-40.png</image40x40>
-        <image48x48>icon/Icon-48.png</image48x48>
-        <image50x50>icon/Icon-50.png</image50x50>
-        <image57x57>icon/Icon-57.png</image57x57>
-        <image58x58>icon/Icon-Small@2x.png</image58x58>
-        <image72x72>icon/Icon-72.png</image72x72>
-        <image76x76>icon/Icon-76.png</image76x76>
-        <image80x80>icon/Icon-Small-80.png</image80x80>
-        <image87x87>icon/Icon-Small@3x.png</image87x87>
-        <image96x96>icon/Icon-96.png</image96x96>
-        <image120x120>icon/Icon-120.png</image120x120>
-        <image144x144>icon/Icon-144.png</image144x144>
-        <image152x152>icon/Icon-152.png</image152x152>
-        <image167x167>icon/Icon-167.png</image167x167>
-        <image512x512>icon/Icon-512.png</image512x512>
-        <image1024x1024>icon/Icon-1024.png</image1024x1024>
-    </icon>
-
-    <!-- Whether the application handles the update when a user double-clicks an update version of the AIR file (true),
-         or the default AIR application installer handles the update (false). Optional. Default false. -->
-    <!--<customUpdateUI></customUpdateUI>-->
-
-    <!-- Whether the application can be launched when the user clicks a link in a web browser. Optional. Default false. -->
-    <allowBrowserInvocation>true</allowBrowserInvocation>
-
-    <!-- Listing of file types for which the application can register. Optional. -->
-    <!--<fileTypes>-->
-    <!-- Defines one file type. Optional. -->
-    <!--<fileType>-->
-    <!-- The name that the system displays for the registered file type. Required. -->
-    <!--<name></name>-->
-    <!-- The extension to register. Required. -->
-    <!--<extension></extension>-->
-    <!-- The description of the file type. Optional. -->
-    <!--<description></description>-->
-    <!-- The MIME content type. -->
-    <!--<contentType></contentType>-->
-    <!-- The icon to display for the file type. Optional. -->
-    <!--<icon>
-        <image16x16></image16x16>
-        <image32x32></image32x32>
-        <image48x48></image48x48>
-        <image128x128></image128x128>
-    </icon>-->
-    <!--</fileType>-->
-    <!--</fileTypes>-->
-
-    <!-- iOS specific capabilities -->
-    <iPhone>
-        <!-- Adding incorrect Entitlements may cause (Installation Error: ApplicationVerificationFailed.)
-             when run / debug in IntelliJ -->
-        <Entitlements>
-            <![CDATA[
-            <!--
+  <id>com.nsm.numbersm</id>
+  <filename>NumbersMarvelous</filename>
+  <name>Numbers Marvelous</name>
+  <versionNumber>1.0.0</versionNumber>
+  <initialWindow>
+    <content>IOS_Release.swf</content>
+    <visible>true</visible>
+    <aspectRatio>landscape</aspectRatio>
+    <autoOrients>true</autoOrients>
+    <fullScreen>true</fullScreen>
+    <renderMode>auto</renderMode>
+    <softKeyboardBehavior>pan</softKeyboardBehavior>
+  </initialWindow>
+  <icon>
+    <image40x40>icon/Icon-Small-40.png</image40x40>
+    <image50x50>icon/Icon-50.png</image50x50>
+    <image57x57>icon/Icon-57.png</image57x57>
+    <image58x58>icon/Icon-Small@2x.png</image58x58>
+    <image72x72>icon/Icon-72.png</image72x72>
+    <image76x76>icon/Icon-76.png</image76x76>
+    <image80x80>icon/Icon-Small-80.png</image80x80>
+    <image87x87>icon/Icon-Small@3x.png</image87x87>
+    <image120x120>icon/Icon-120.png</image120x120>
+    <image144x144>icon/Icon-144.png</image144x144>
+    <image152x152>icon/Icon-152.png</image152x152>
+    <image167x167>icon/Icon-167.png</image167x167>
+    <image1024x1024>icon/Icon-1024.png</image1024x1024>
+  </icon>
+  <allowBrowserInvocation>true</allowBrowserInvocation>
+  <iPhone>
+    <Entitlements>&lt;!--
                 set to 'development' when debugging your app and set to
                 'production' when building for adhoc or distribution.
-		    -->
-		    <key>beta-reports-active</key>
-            <true/>
-            <key>get-task-allow</key>
-			<false/>
+		    --&gt;
+		    &lt;key&gt;beta-reports-active&lt;/key&gt;
+            &lt;true/&gt;
+            &lt;key&gt;get-task-allow&lt;/key&gt;
+			&lt;false/&gt;
 
-			<key>aps-environment</key>
-			<string>production</string>
+			&lt;key&gt;aps-environment&lt;/key&gt;
+			&lt;string&gt;production&lt;/string&gt;
 
-			<key>keychain-access-groups</key>
-			<array>
-		        <string>BHGNNYX4U9.*</string>
-			</array>
+			&lt;key&gt;keychain-access-groups&lt;/key&gt;
+			&lt;array&gt;
+		        &lt;string&gt;Q9VNYYLGZX.*&lt;/string&gt;
+			&lt;/array&gt;
 
-			<key>application-identifier</key>
-			<string>BHGNNYX4U9.com.sd.digitx</string>
-			<key>com.apple.developer.team-identifier</key>
-			<string>BHGNNYX4U9</string>
-            <key>com.apple.developer.associated-domains</key>
-                    <array>
-                        <string>applinks:eewq2.app.goo.gl</string>
-                    </array>
-             ]]>
-        </Entitlements>
-        <!-- A list of plist key/value pairs to be added to the application Info.plist -->
-        <InfoAdditions>
-            <![CDATA[
-            <key>CFBundleIconName</key>
-            <string>AppIcon</string>
-            <key>UIDeviceFamily</key>
-            <array>
-                <!-- iPhone and iPod touch devices -->
-                <string>1</string>
-                <!-- iPad devices -->
-                <string>2</string>
-            </array>
-            <key>NSCameraUsageDescription</key>
-		    <string>Để thực hiện chụp ảnh, ứng dụng cần truy cập vào máy ảnh của bạn</string>
-            <key>NSPhotoLibraryUsageDescription</key>
-            <string>Để lưu ảnh chụp màn hình, chúng tôi cần truy cập vào thư viện ảnh của bạn</string>
-            <key>NSBluetoothPeripheralUsageDescription</key>
-            <string>Advertisement would like to use bluetooth.</string>
-            <key>ITSAppUsesNonExemptEncryption</key><false/>
-            <key>UIStatusBarStyle</key>
-            <string>UIStatusBarStyleBlackOpaque</string>
-            <key>UIRequiresPersistentWiFi</key>
-            <string>YES</string>
-            <key>UIPrerenderedIcon</key>
-            <true/>
-            <key>FacebookUrlSchemeSuffix</key>
-            <string>chanenterprise</string>
-            <key>CFBundleURLTypes</key>
-            <array>
-                <dict>
-                    <key>CFBundleURLSchemes</key>
-                        <array>
-                            <string>fb252714068096529chanenterprise</string>
-                            <string>air.com.doitflash.exfacebook2</string>
-                        </array>
-                </dict>
-            </array>
-            <key>FacebookAppID</key>
-            <string>252714068096529</string>
-            <key>NSAppTransportSecurity</key>
-            <dict>
-                <key>NSAllowsArbitraryLoads</key>
-                <true/>
-                <key>NSExceptionDomains</key>
-                <dict>
-                    <key>facebook.com</key>
-                    <dict>
-                        <key>NSIncludesSubdomains</key>
-                        <true/>
-                        <key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
-                        <false/>
-                    </dict>
-                    <key>fbcdn.net</key>
-                    <dict>
-                        <key>NSIncludesSubdomains</key>
-                        <true/>
-                        <key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
-                        <false/>
-                    </dict>
-                    <key>akamaihd.net</key>
-                    <dict>
-                        <key>NSIncludesSubdomains</key>
-                        <true/>
-                        <key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
-                        <false/>
-                    </dict>
-                </dict>
-            </dict>
-            <key>LSApplicationQueriesSchemes</key>
-            <array>
-                    <string>fbapi</string>
-                    <string>fb-messenger-api</string>
-                    <string>fb-messenger-share-api</string>
-                    <string>fb-messenger</string>
-                    <string>fbauth2</string>
-                    <string>fbshareextension</string>
-            </array>
-            <key>MinimumOSVersion</key>
-            <string>10.0</string>
-            <key>UIViewControllerBasedStatusBarAppearance</key>
-            <false/>
+			&lt;key&gt;application-identifier&lt;/key&gt;
+			&lt;string&gt;Q9VNYYLGZX.com.nsm.numbersm&lt;/string&gt;
+			&lt;key&gt;com.apple.developer.team-identifier&lt;/key&gt;
+			&lt;string&gt;Q9VNYYLGZX&lt;/string&gt;
+            &lt;key&gt;com.apple.developer.associated-domains&lt;/key&gt;
+                    &lt;array&gt;
+                        &lt;string&gt;applinks:eewq2.app.goo.gl&lt;/string&gt;
+                    &lt;/array&gt;</Entitlements>
+    <InfoAdditions>&lt;key&gt;CFBundleIconName&lt;/key&gt;
+            &lt;string&gt;AppIcon&lt;/string&gt;
+            &lt;key&gt;UIDeviceFamily&lt;/key&gt;
+            &lt;array&gt;
+                &lt;!-- iPhone and iPod touch devices --&gt;
+                &lt;string&gt;1&lt;/string&gt;
+                &lt;!-- iPad devices --&gt;
+                &lt;string&gt;2&lt;/string&gt;
+            &lt;/array&gt;
 
-            <!-- Required by firebase_messaging.ane -->
-            <key>UIBackgroundModes</key>
-            <array>
-                <string>remote-notification</string>
-            </array>
-            <key>com.myflashlabs.firebase.deepLinkURLScheme</key>
-                <string>dlscheme</string>
-            ]]>
-        </InfoAdditions>
-        <requestedDisplayResolution>high</requestedDisplayResolution>
-        <!-- Forcing Render Mode CPU for the devices mentioned. Optional  -->
-        <!--<forceCPURenderModeForDevices>true</forceCPURenderModeForDevices>-->
-        <!-- File containing line separated list of external swf paths. These swfs won't be packaged inside the application
-        and corresponding stripped swfs will be output in externalStrippedSwfs folder. -->
-        <!--<externalSwfs></externalSwfs> -->
-    </iPhone>
-
-    <extensions>
-        <extensionID>com.myflashlab.air.extensions.firebase.auth</extensionID>
-        <extensionID>com.myflashlab.air.extensions.dependency.firebase.auth</extensionID>
-        <extensionID>com.myflashlab.air.extensions.facebook</extensionID>
-        <!--<extensionID>com.freshplanet.AirFacebook</extensionID>-->
-        <extensionID>com.mesmotronic.ane.fullscreen</extensionID>
-        <extensionID>sd.natives.ios.NativeExtension</extensionID>
-<!--        <extensionID>com.ssd.ane.androidextensions</extensionID>-->
-        <extensionID>com.freshplanet.ane.AirInAppPurchase</extensionID>
-        <extensionID>com.myflashlab.air.extensions.udid</extensionID>
-        <!--ADD FireBase core -->
-        <extensionID>com.myflashlab.air.extensions.dependency.firebase.common</extensionID>
-        <extensionID>com.myflashlab.air.extensions.dependency.firebase.iid</extensionID>
-<!--        <extensionID>com.myflashlab.air.extensions.dependency.googlePlayServices.appinvite</extensionID>-->
-<!--        <extensionID>com.myflashlab.air.extensions.dependency.googlePlayServices.base</extensionID>-->
-<!--        <extensionID>com.myflashlab.air.extensions.dependency.googlePlayServices.basement</extensionID>-->
-<!--        <extensionID>com.myflashlab.air.extensions.dependency.googlePlayServices.tasks</extensionID>-->
-        <extensionID>com.myflashlab.air.extensions.dependency.overrideAir</extensionID>
-<!--        <extensionID>com.myflashlab.air.extensions.dependency.androidSupport</extensionID>-->
-
-        <extensionID>com.myflashlab.air.extensions.firebase.core</extensionID>
-
-        <!-- To support Firebase FCM -->
-        <extensionID>com.myflashlab.air.extensions.firebase.fcm</extensionID>
-        <extensionID>com.myflashlab.air.extensions.dependency.firebase.messaging</extensionID>
-
-        <extensionID>com.myflashlab.air.extensions.firebase.dynamicLinks</extensionID>
-        <extensionID>com.myflashlab.air.extensions.dependency.firebase.dynamicLinks</extensionID>
-    </extensions>
-
+            &lt;key&gt;MinimumOSVersion&lt;/key&gt;
+            &lt;string&gt;8.0&lt;/string&gt;
+            &lt;key&gt;UIRequiredDeviceCapabilities&lt;/key&gt;
+            &lt;array&gt;
+                &lt;string&gt;arm64&lt;/string&gt;
+            &lt;/array&gt;</InfoAdditions>
+    <requestedDisplayResolution>high</requestedDisplayResolution>
+  </iPhone>
+  <extensions />
 </application>

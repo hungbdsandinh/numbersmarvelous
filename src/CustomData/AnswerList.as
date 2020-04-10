@@ -15,7 +15,7 @@ public class AnswerList extends Sprite{
             embedAsCFF="false")]
     public const M54_font:Class;
 
-    [Embed(source='../com/example/HexagonNumberMatrix/art_newpuz/play/do.png')]
+    [Embed(source='../com/nsm/numbersm/art_newpuz/play/do.png')]
     public const cardNum:Class;
 
     public var imgCardNum: Bitmap = new Bitmap();

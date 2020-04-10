@@ -4,7 +4,235 @@
     <option name="deselectedBCs" value="NewPuzzle&#9;NewPuzzle&#10;NewPuzzle&#9;IOS_DEV" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3033b400-243a-47a2-8424-71fb80bc17b2" name="Default Changelist" comment="" />
+    <list default="true" id="3033b400-243a-47a2-8424-71fb80bc17b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cer/Certificates_dis.p12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/Consts.as" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/NewPuzzMain.as" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/SDUtils.as" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/1024px-Speaker_Icon.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/1024px-Speaker_Icon2.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/3x3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/4x4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/5x5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/Nuvola_arrow_left_pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/level/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/level/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/level/lv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/level/lv_lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/level/lvdemo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/level/volume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/level/volume2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/load/Default-568h@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/load/Default-812h@3x~iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/load/Default-Landscape-812h@3x~iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/load/Default-Landscape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/load/Default-LandscapeLeft@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/load/Default-Portrait.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/load/Default-Portrait@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/load/Default@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/longline/3x3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/longline/4x4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/longline/5x5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/menu/Play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/menu/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/play/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/play/buoc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/play/control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/play/do.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/play/khungnho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/play/khungto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/play/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/play/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/play/xanh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/score/3x3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/score/4x4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/score/5x5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/score/New folder/3x3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/score/New folder/4x4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/score/New folder/5x5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/score/Nuvola_arrow_left_pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/score/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/score/volum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/score/volum2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/screen/2208/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/screen/2208/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/screen/2208/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/screen/2688/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/screen/2688/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/screen/2688/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/screen/2732/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/screen/2732/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/screen/2732/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/winlose/demolose.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/winlose/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/winlose/lose.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/winlose/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/winlose/replay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/art_newpuz/winlose/win.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/img/ButtonClick.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/img/PickCell.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/img/Purple-Planet.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/img/Ta Da-SoundBible.com-1884170640.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nsm/numbersm/img/Win.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewPuzzle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NewPuzzle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cer/Certificates_dev.p12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cer/chan_dev.mobileprovision" beforeDir="false" afterPath="$PROJECT_DIR$/cer/Profiles_dis.mobileprovision" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanpro-android-app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chanpro-android-app.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Android_dev.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Android_dev.swf" beforeDir="false" afterPath="$PROJECT_DIR$/out/Android_dev.swf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/IOS_DEV.ipa" beforeDir="false" afterPath="$PROJECT_DIR$/out/IOS_DEV.ipa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/IOS_DEV.swf" beforeDir="false" afterPath="$PROJECT_DIR$/out/IOS_DEV.swf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Main-android-descriptor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/Main-android-descriptor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Main-ios-descriptor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/Main-ios-descriptor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Main.swf" beforeDir="false" afterPath="$PROJECT_DIR$/out/Main.swf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/apk5956749280338040582.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/cer/Certificates_dev.p12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/cer/dev_profile.mobileprovision" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/1024px-Speaker_Icon.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/1024px-Speaker_Icon2.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/3x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/4x4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/5x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/Nuvola_arrow_left_pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/level/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/level/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/level/lv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/level/lv_lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/level/lvdemo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/level/volume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/level/volume2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default-568h@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default-812h@3x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default-Landscape-812h@3x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default-Landscape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default-LandscapeLeft@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default-Portrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default-Portrait@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/load/Default@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/longline/3x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/longline/4x4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/longline/5x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/menu/Play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/menu/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/buoc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/control.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/do.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/khungnho.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/khungto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/play/xanh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/3x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/4x4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/5x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/New folder/3x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/New folder/4x4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/New folder/5x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/Nuvola_arrow_left_pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/volum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/score/volum2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2208/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2208/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2208/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2688/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2688/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2688/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2732/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2732/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/screen/2732/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/winlose/demolose.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/winlose/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/winlose/lose.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/winlose/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/winlose/replay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/art_newpuz/winlose/win.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/img/ButtonClick.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/img/PickCell.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/img/Purple-Planet.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/img/Ta Da-SoundBible.com-1884170640.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/example/HexagonNumberMatrix/img/Win.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/ios_development.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/ios_development.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/ios_release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/ios_release.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomData/AnswerList.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomData/AnswerList.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomData/SingleCardNum.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomData/SingleCardNum.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/Consts.as" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/NewPuzzMain.as" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/SDUtils.as" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/1024px-Speaker_Icon.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/1024px-Speaker_Icon2.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/3x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/4x4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/5x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/Nuvola_arrow_left_pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/level/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/level/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/level/lv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/level/lv_lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/level/lvdemo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/level/volume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/level/volume2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/load/Default-568h@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/load/Default-812h@3x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/load/Default-Landscape-812h@3x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/load/Default-Landscape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/load/Default-LandscapeLeft@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/load/Default-Portrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/load/Default-Portrait@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/load/Default@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/longline/3x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/longline/4x4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/longline/5x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/menu/Play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/menu/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/play/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/play/buoc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/play/control.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/play/do.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/play/khungnho.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/play/khungto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/play/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/play/time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/play/xanh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/score/3x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/score/4x4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/score/5x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/score/New folder/3x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/score/New folder/4x4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/score/New folder/5x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/score/Nuvola_arrow_left_pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/score/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/score/volum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/score/volum2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/screen/2208/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/screen/2208/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/screen/2208/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/screen/2688/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/screen/2688/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/screen/2688/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/screen/2732/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/screen/2732/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/screen/2732/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/winlose/demolose.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/winlose/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/winlose/lose.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/winlose/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/winlose/replay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/winlose/win.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/img/ButtonClick.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/img/PickCell.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/img/Purple-Planet.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/img/Ta Da-SoundBible.com-1884170640.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/img/Win.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios_development.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ios_development.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios_release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ios_release.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +248,35 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KonanWorkspace">
+    <executables />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Zy4NEs85hC9ij2OPZ7RkVAgS3c" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cer" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -48,13 +290,13 @@
       <recent name="com.example.HexagonNumberMatrix" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz" />
       <recent name="$PROJECT_DIR$/cer" />
+      <recent name="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz" />
       <recent name="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix/art_newpuz/play" />
       <recent name="$PROJECT_DIR$/src/com/example/HexagonNumberMatrix" />
     </key>
   </component>
-  <component name="RunManager" selected="Flash App.Android_dev (NewPuzzle)">
+  <component name="RunManager" selected="Flash App.ios_release">
     <configuration name="Android_dev (NewPuzzle)" type="FlashRunConfigurationType" nameIsGenerated="true">
       <option name="BCName" value="Android_dev" />
       <option name="IOSSimulatorDevice" value="" />
@@ -172,10 +414,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ios_release" type="FlashRunConfigurationType">
+      <option name="BCName" value="IOS_Release" />
+      <option name="IOSSimulatorDevice" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="clearAppDataOnEachLaunch" value="true" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="iOSDevice" />
+      <option name="moduleName" value="NewPuzzle" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Flash App.NewPuzzle" />
       <item itemvalue="Flash App.Android_dev (NewPuzzle)" />
       <item itemvalue="Flash App.ios_dev" />
+      <item itemvalue="Flash App.ios_release" />
     </list>
   </component>
   <component name="SbtLocalSettings">
@@ -219,18 +501,27 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586398548358">
-      <screen x="0" y="23" width="1680" height="986" />
+    <state x="470" y="202" width="897" height="669" key="#Project_Structure" timestamp="1586493561746">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
+    <state x="470" y="202" width="897" height="669" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1586493561746" />
+    <state x="304" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586492597638">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1586492597638" />
     <state x="304" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.986@0.23.1680.986" timestamp="1586398548358" />
     <state x="534" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586342274977">
       <screen x="0" y="23" width="1680" height="986" />
     </state>
     <state x="534" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.986@0.23.1680.986" timestamp="1586342274977" />
-    <state x="577" y="306" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586314870475">
-      <screen x="0" y="23" width="1680" height="986" />
+    <state x="577" y="318" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586493282309">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
+    <state x="577" y="318" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1586493282309" />
     <state x="577" y="306" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.986@0.23.1680.986" timestamp="1586314870475" />
     <state x="578" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586281635058">
       <screen x="0" y="23" width="1680" height="986" />
@@ -244,25 +535,29 @@
       <screen x="0" y="23" width="1680" height="986" />
     </state>
     <state width="552" height="466" key="DebuggerActiveHint/0.23.1680.986@0.23.1680.986" timestamp="1585907911992" />
-    <state width="1638" height="176" key="GridCell.Tab.0.bottom" timestamp="1586401900654">
-      <screen x="0" y="23" width="1680" height="986" />
+    <state width="1562" height="280" key="GridCell.Tab.0.bottom" timestamp="1586493287061">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.bottom/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1585891316430" />
+    <state width="1562" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1586493287061" />
     <state width="1638" height="176" key="GridCell.Tab.0.bottom/0.23.1680.986@0.23.1680.986" timestamp="1586401900654" />
-    <state width="1638" height="176" key="GridCell.Tab.0.center" timestamp="1586401900653">
-      <screen x="0" y="23" width="1680" height="986" />
+    <state width="1562" height="280" key="GridCell.Tab.0.center" timestamp="1586493287061">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.center/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1585891316428" />
+    <state width="1562" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1586493287061" />
     <state width="1638" height="176" key="GridCell.Tab.0.center/0.23.1680.986@0.23.1680.986" timestamp="1586401900653" />
-    <state width="1638" height="176" key="GridCell.Tab.0.left" timestamp="1586401900652">
-      <screen x="0" y="23" width="1680" height="986" />
+    <state width="1562" height="280" key="GridCell.Tab.0.left" timestamp="1586493287060">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.left/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1585891316427" />
+    <state width="1562" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1586493287060" />
     <state width="1638" height="176" key="GridCell.Tab.0.left/0.23.1680.986@0.23.1680.986" timestamp="1586401900652" />
-    <state width="1638" height="176" key="GridCell.Tab.0.right" timestamp="1586401900654">
-      <screen x="0" y="23" width="1680" height="986" />
+    <state width="1562" height="280" key="GridCell.Tab.0.right" timestamp="1586493287061">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.right/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1585891316429" />
+    <state width="1562" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1586493287061" />
     <state width="1638" height="176" key="GridCell.Tab.0.right/0.23.1680.986@0.23.1680.986" timestamp="1586401900654" />
     <state width="1638" height="206" key="GridCell.Tab.1.bottom" timestamp="1585912082524">
       <screen x="0" y="23" width="1680" height="986" />
@@ -280,17 +575,19 @@
       <screen x="0" y="23" width="1680" height="986" />
     </state>
     <state width="1638" height="206" key="GridCell.Tab.1.right/0.23.1680.986@0.23.1680.986" timestamp="1585912082524" />
-    <state x="328" y="97" key="SettingsEditor" timestamp="1586399182730">
-      <screen x="0" y="23" width="1680" height="986" />
+    <state x="328" y="100" key="SettingsEditor" timestamp="1586493285166">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
+    <state x="328" y="100" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1586493285166" />
     <state x="328" y="97" key="SettingsEditor/0.23.1680.986@0.23.1680.986" timestamp="1586399182730" />
     <state x="100" y="123" width="1480" height="785" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586145846834">
       <screen x="0" y="23" width="1680" height="986" />
     </state>
     <state x="100" y="123" width="1480" height="785" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1680.986@0.23.1680.986" timestamp="1586145846834" />
-    <state x="421" y="240" width="837" height="550" key="find.popup" timestamp="1585902871738">
-      <screen x="0" y="23" width="1680" height="986" />
+    <state x="440" y="252" width="837" height="573" key="find.popup" timestamp="1586493260154">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
+    <state x="440" y="252" width="837" height="573" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1586493260154" />
     <state x="421" y="240" width="837" height="550" key="find.popup/0.23.1680.986@0.23.1680.986" timestamp="1585902871738" />
   </component>
 </project>
